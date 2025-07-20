@@ -1,9 +1,11 @@
 # .agentignore
 A Control Mechanism for AI Agent
 
+[ENGLISH VERSION](/README.md), [简体中文版](/README-zhcn.md)
+
 ### 1. Introduction for Users
 
-Welcome! This document introduces `.agentignore`, a simple yet powerful tool designed to give you precise control over which parts of your codebase AI agents and code assistants can access.
+Welcome! This document introduces `.agentignore`, a simple yet powerful way designed to give you precise control over which parts of your codebase AI agents and code assistants can access.
 
 As AI becomes an integral part of our development workflow, it's crucial to ensure that sensitive information, experimental code, or irrelevant files are not processed or exposed. The `.agentignore` file works just like the familiar `.gitignore` file, but it's specifically for AI tools. By creating an `.agentignore` file in your project's root directory, you can list files and directories that you want AI agents to completely ignore.
 
